@@ -18,6 +18,7 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
 gem 'haml', '~> 5.2', '>= 5.2.2'
+gem 'simple_form', '~> 5.1'
 
 gem 'bootsnap', '>= 1.4.2', require: false
 
