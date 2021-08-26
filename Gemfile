@@ -19,6 +19,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 gem 'haml', '~> 5.2', '>= 5.2.2'
 gem 'simple_form', '~> 5.1'
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
 gem 'bootsnap', '>= 1.4.2', require: false
 
